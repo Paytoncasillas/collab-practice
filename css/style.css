@@ -3,7 +3,13 @@ header{
     height: 10vh;
     background-color: #833d3b;
 }
-
+.myclass{
+    height: 300px;
+    padding-left: 15rem !important;
+    margin-bottom: 40px;
+    background-color: #303823; opacity: 0.6;
+    color:#ba928d;
+}
 .main_content {
     height: 80vh;
 }
