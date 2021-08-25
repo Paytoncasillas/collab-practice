@@ -1,0 +1,19 @@
+
+header{
+    height: 10vh;
+    background-color: #833d3b;
+}
+
+.main_content {
+    height: 80vh;
+}
+
+.whereami{
+    border: dotted #2d2222;
+    background-color: #a96d71;
+  
+}
+footer {
+    height: 10vh;
+    background-color: #ba928d;
+}
